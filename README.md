@@ -1,4 +1,5 @@
 # Car_Price_predictor
+## Tp predict the price of the cars for the selling , I had created a Car Price Predictor while doing Internship at YBI Foundation.
 <br>
 * Leveraged Machine Learning in Jupyter Notebook to ceate a Car Price Predictor.<br>
 * Basic Analysis was done in MS-Excel. <br>
